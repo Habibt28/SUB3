@@ -1,0 +1,17 @@
+* {
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+}
+
+.blog title{
+    font-size: 1.1 rem;
+    font-weight: bold;
+    color: black;
+}
+
+
+.author-text{
+    font-size: 0 rem;
+    color: aliceblue;
+}
+
